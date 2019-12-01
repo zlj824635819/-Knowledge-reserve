@@ -1,2 +1,2 @@
 # Individual-exercises
-一些自己的联系
+一些自己的练习
